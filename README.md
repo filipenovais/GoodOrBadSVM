@@ -5,8 +5,7 @@ Personal Project
 
 - Name: Good Player or Bad Player SVM Model
 - Year: 2019
-- Description: Genetic algorithm where each pixel colour ([R, G, B]) represents a chromosome in the population and the goal is to reach a target colour.
-To evolve to the next generation the user has to click with his mouse. The number of pixels/individuals in the population can be changed and the target colour changes randomly after the best chromosome in the population reaches the target chromosome (see pictures below).
+- Description: Support Vector Machine algorithm that uses the number of hours an online player spends playing the game and learning about the game, per week, to classify him as Good or Bad player.
 
 ![alt text](https://github.com/filipenovais/PixelGeneticAlgorithm/blob/master/pixelGAinit.png)
 
