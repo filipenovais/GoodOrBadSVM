@@ -9,7 +9,9 @@ Personal Project
 
 ![alt text](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Hyperplane.png)
 
+- Testing the model
 def goodorbad(PlayingTime, LearningTime)
+
 goodorbad(6.0,2.0)
 
 ![alt text](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Classification.png)
