@@ -9,11 +9,10 @@ Personal Project
 
 ![alt text](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Hyperplane.png)
 
-- Testing the model:
-
-  Python function: goodorbad(PlayingTime, LearningTime)
+- Testing the model with Python function: *goodorbad(PlayingTime, LearningTime)*
 
   In [1]: goodorbad(6.0,2.0)
+  
   Out [1]: You're looking at a Good Player!
 
 ![alt text](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Classification.png)
