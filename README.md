@@ -11,9 +11,10 @@ Personal Project
 
 - Testing the model:
 
-  Python function goodorbad(PlayingTime, LearningTime)
+  Python function: goodorbad(PlayingTime, LearningTime)
 
-  -> goodorbad(6.0,2.0)
+  In [1]: goodorbad(6.0,2.0)
+  Out [1]: You're looking at a Good Player!
 
 ![alt text](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Classification.png)
 
