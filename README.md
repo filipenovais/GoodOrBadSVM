@@ -10,5 +10,5 @@ Personal Project
 ![alt text](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Classification.png)
 ![alt text](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Hyperplane.png)
 
-![alt-text-1](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Classification.png) ![alt-text-2](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Hyperplane.png)
+![alt-text-1](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Classification.png) ![alt-text-2(https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Hyperplane.png)
 
