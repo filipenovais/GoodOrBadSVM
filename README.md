@@ -17,3 +17,4 @@ Personal Project
 
 ![alt text](https://github.com/filipenovais/GoodOrBadSVM/blob/master/SVM_Classification.png)
 
+Credit to: https://github.com/adashofdata
